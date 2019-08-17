@@ -13,6 +13,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT
 * GP-Unet: Lesion Detection from Weak Labels with a 3D Regression Network (MICCAI).
 * Sequential 3D U-Nets for Biologically-Informed Brain Tumor Segmentation
+* Dilated Residual Networks
 ## 2018
 * UNet++: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI).
 * MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation.
@@ -36,6 +37,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Fully Dense UNet for 2D Sparse Photoacoustic Tomography Artifact Removal.
 * RA-UNet: A hybrid deep attention-aware network to extract liver and tumor in CT scans
 * Automatic Multi-Organ Segmentation on Abdominal CT With Dense V-Networks
+* DRINet for Medical Image Segmentation
 ## 2019
 * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation.
 * U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instrument.
@@ -67,4 +69,20 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 * Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
 ## 2019
 * Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation
+## Other Models
+* Pixel-Adaptive Convolutional Neural Networks
+* Gated-SCNN: Gated Shape CNNs for Semantic Segmentation
+* A Two Stage GAN for High Resolution Retinal Image Generation and Segmentation
+## Types of Convolution operation which contributed significantly to perform semaantic segmentation
+* Xception: Deep Learning with Depthwise Separable Convolutions
+* Learning Deconvolution Network for Semantic Segmentation
+* MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS
+* Deconvolutional Networks(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5539957)
+* A guide to convolution arithmetic for deep learning (https://arxiv.org/pdf/1603.07285.pdf)
+## Other Impotant Papers realted to Segmentation
+* Data augmentation using learned transformations for one-shot medical image segmentation
+* Understanding Deep Learning Techniques for Image Segmentation
+* Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation
+* The Importance of Skip Connections in Biomedical Image Segmentation
+* Large Kernel Matters: Improve Semantic Segmentation by Global Convolutional Network
 
