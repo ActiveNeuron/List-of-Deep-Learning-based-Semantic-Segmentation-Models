@@ -1,6 +1,7 @@
 # Deep-Learning-based-Semantic-Segmenatation-Models
 This repository includes various types of deep learning based Semantic Segmentation Models
-
+## 2014
+* Fully Convolutional Networks for Semantic Segmentation
 ## 2015
 * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI).
 ## 2016
@@ -8,7 +9,9 @@ This repository includes various types of deep learning based Semantic Segmentat
 * 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation [paper][pytorch]
 ## 2017
 * H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes (IEEE Transactions on Medical Imaging.
+* Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT
 * GP-Unet: Lesion Detection from Weak Labels with a 3D Regression Network (MICCAI).
+* Sequential 3D U-Nets for Biologically-Informed Brain Tumor Segmentation
 ## 2018
 * UNet++: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI).
 * MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation.
@@ -30,6 +33,8 @@ This repository includes various types of deep learning based Semantic Segmentat
 * 3D RoI-aware U-Net for Accurate and Efficient Colorectal Cancer Segmentation.
 * Detection and Delineation of Acute Cerebral Infarct on DWI Using Weakly Supervised Machine Learning.
 * Fully Dense UNet for 2D Sparse Photoacoustic Tomography Artifact Removal.
+* RA-UNet: A hybrid deep attention-aware network to extract liver and tumor in CT scans
+* Automatic Multi-Organ Segmentation on Abdominal CT With Dense V-Networks
 ## 2019
 * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation.
 * U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instrument.
@@ -50,3 +55,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 * MFP-Unet: A Novel Deep Learning Based Approach for Left Ventricle Segmentation in Echocardiography.
 * A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation (MICCAI 2019).
 * ResUNet-a: a deep learning framework for semantic segmentation of remotely sensed data.
+* Optimized High Resolution 3D Dense-U-Net Network for Brain and Spine Segmentation
+* Multi Scale Supervised 3D U-Net for Kidney and Tumor Segmentation
+* HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation
+
