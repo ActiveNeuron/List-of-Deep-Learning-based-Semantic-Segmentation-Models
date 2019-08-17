@@ -12,6 +12,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 * RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
 * Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation
 * ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation
+* Light-Weight RefineNet for Real-Time Semantic Segmentation
 ## 2017
 * H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes (IEEE Transactions on Medical Imaging.
 * Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT
