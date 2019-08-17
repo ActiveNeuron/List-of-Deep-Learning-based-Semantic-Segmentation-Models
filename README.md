@@ -2,6 +2,7 @@
 This repository includes various types of deep learning based Semantic Segmentation Models
 ## 2014
 * Fully Convolutional Networks for Semantic Segmentation
+## U-Net based Models
 ## 2015
 * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI).
 ## 2016
@@ -58,4 +59,12 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Optimized High Resolution 3D Dense-U-Net Network for Brain and Spine Segmentation
 * Multi Scale Supervised 3D U-Net for Kidney and Tumor Segmentation
 * HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation
+## DeepLab based Models
+## 2017
+Rethinking Atrous Convolution for Semantic Image Segmentation
+## 2018
+* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+* Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
+## 2019
+* Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation
 
