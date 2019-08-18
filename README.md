@@ -4,6 +4,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Fully Convolutional Networks for Semantic Segmentation
 ## U-Net based Models
 ## 2015
+* PARSENET: LOOKING WIDER TO SEE BETTER
 * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI).
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling
 ## 2016
@@ -18,6 +19,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes
 * Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
 * Semantic Segmentation using Adversarial Networks
+* Path Aggregation Network for Instance Segmentation
 ## 2017
 * H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes (IEEE Transactions on Medical Imaging.
 * Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT
@@ -112,12 +114,16 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 * MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS
 * Deconvolutional Networks(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5539957)
 * A guide to convolution arithmetic for deep learning (https://arxiv.org/pdf/1603.07285.pdf)
-## Other Impotant Papers realted to Segmentation
+## Other Impotant Papers related to Segmentation
 * Data augmentation using learned transformations for one-shot medical image segmentation
 * Understanding Deep Learning Techniques for Image Segmentation
 * Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation
 * The Importance of Skip Connections in Biomedical Image Segmentation
 * Large Kernel Matters: Improve Semantic Segmentation by Global Convolutional Network
+* 4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks
+* Improving Semantic Segmentation via Video Propagation and Label Relaxation
+* Improving Semantic Segmentation via Video Propagation and Label Relaxation
+* Self-Supervised Model Adaptation for Multimodal Semantic Segmentation
 ## Resources to get start with Sematic Segamentation
 * https://github.com/mrgloom/awesome-semantic-segmentation
 * 
