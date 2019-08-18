@@ -124,6 +124,7 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 * Improving Semantic Segmentation via Video Propagation and Label Relaxation
 * Improving Semantic Segmentation via Video Propagation and Label Relaxation
 * Self-Supervised Model Adaptation for Multimodal Semantic Segmentation
+* Automatically Designing CNN Architectures for Medical Image Segmentation
 ## Resources to get start with Sematic Segamentation
 * https://github.com/mrgloom/awesome-semantic-segmentation
 * https://github.com/divamgupta/image-segmentation-keras
