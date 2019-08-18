@@ -17,6 +17,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 * PixelNet: Towards a General Pixel-Level Architecture
 * Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes
 * Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation
+* Semantic Segmentation using Adversarial Networks
 ## 2017
 * H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes (IEEE Transactions on Medical Imaging.
 * Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT
@@ -26,6 +27,8 @@ This repository includes various types of deep learning based Semantic Segmentat
 * LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation
 * Efficient ConvNet for Real-time Semantic Segmentation
 * Pyramid Scene Parsing Network
+* Segmentation-Aware Convolutional Networks Using Local Attention Masks
+* PIXEL DECONVOLUTIONAL NETWORKS
 ## 2018
 * UNet++: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI).
 * MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation.
@@ -51,6 +54,9 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Automatic Multi-Organ Segmentation on Abdominal CT With Dense V-Networks
 * DRINet for Medical Image Segmentation
 * ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+* MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving
+* SHUFFLESEG: REAL-TIME SEMANTIC SEGMENTATION NETWORK
+* Learning to Adapt Structured Output Space for Semantic Segmentation
 ## 2019
 * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation.
 * U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instrument.
