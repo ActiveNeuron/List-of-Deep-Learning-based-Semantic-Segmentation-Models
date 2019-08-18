@@ -57,6 +57,16 @@ This repository includes various types of deep learning based Semantic Segmentat
 * MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving
 * SHUFFLESEG: REAL-TIME SEMANTIC SEGMENTATION NETWORK
 * Learning to Adapt Structured Output Space for Semantic Segmentation
+* Multi-path segmentation network
+* LadderNet: Multi-path networks based on U-Net for medical image segmentation
+* BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
+* ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
+* Learning a Discriminative Feature Network for Semantic Segmentation
+* CCNet: Criss-Cross Attention for Semantic Segmentation
+* DenseASPP for Semantic Segmentation in Street Scenes(CVPR)
+* PSANet: Point-wise Spatial Attention Network for Scene Parsing
+* Convolutional CRFs for Semantic Segmentation
+
 ## 2019
 * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation.
 * U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instrument.
@@ -81,6 +91,9 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Multi Scale Supervised 3D U-Net for Kidney and Tumor Segmentation
 * HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation
 * Dual Attention Network for Scene Segmentation
+* Fast-SCNN: Fast Semantic Segmentation Network
+* High-Resolution Representations for Labeling Pixels and Regions
+* UPSNet: A Unified Panoptic Segmentation Network
 ## DeepLab based Models
 ## 2017
 Rethinking Atrous Convolution for Semantic Image Segmentation
