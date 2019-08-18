@@ -80,6 +80,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Optimized High Resolution 3D Dense-U-Net Network for Brain and Spine Segmentation
 * Multi Scale Supervised 3D U-Net for Kidney and Tumor Segmentation
 * HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation
+* Dual Attention Network for Scene Segmentation
 ## DeepLab based Models
 ## 2017
 Rethinking Atrous Convolution for Semantic Image Segmentation
