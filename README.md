@@ -126,5 +126,7 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 * Self-Supervised Model Adaptation for Multimodal Semantic Segmentation
 ## Resources to get start with Sematic Segamentation
 * https://github.com/mrgloom/awesome-semantic-segmentation
-* 
+* https://github.com/divamgupta/image-segmentation-keras
+* https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models
+* https://github.com/aparecidovieira/Road_extraction
 
