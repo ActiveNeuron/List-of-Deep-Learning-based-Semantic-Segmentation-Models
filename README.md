@@ -31,6 +31,8 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Pyramid Scene Parsing Network
 * Segmentation-Aware Convolutional Networks Using Local Attention Masks
 * PIXEL DECONVOLUTIONAL NETWORKS
+* M-NET: A CONVOLUTIONAL NEURAL NETWORK FOR DEEP BRAIN STRUCTURE SEGMENTATION
+
 ## 2018
 * UNet++: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI).
 * MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation.
