@@ -98,6 +98,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 * Fast-SCNN: Fast Semantic Segmentation Network
 * High-Resolution Representations for Labeling Pixels and Regions
 * UPSNet: A Unified Panoptic Segmentation Network
+* An Improved U-Net Convolutional Networks for Seabed Mineral Image Segmentation
 ## DeepLab based Models
 ## 2017
 Rethinking Atrous Convolution for Semantic Image Segmentation
