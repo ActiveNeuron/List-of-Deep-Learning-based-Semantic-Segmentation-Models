@@ -1,4 +1,4 @@
-# List-of-Deep-Learning-based-Semantic-Segmenatation-Models
+# List-of-Deep-Learning-based-Semantic-Segmentation-Models
 This repository includes various types of deep learning based Semantic Segmentation Models
 ## 2014
 * Fully Convolutional Networks for Semantic Segmentation
