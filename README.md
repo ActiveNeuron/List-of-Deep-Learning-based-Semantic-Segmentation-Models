@@ -23,6 +23,7 @@ This repository includes various types of deep learning based Semantic Segmentat
 ## 2017
 * Densely Connected Convolutional Networks
 * H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes (IEEE Transactions on Medical Imaging.
+* Ladder-style DenseNets for Semantic Segmentation of Large Natural Images
 * Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT
 * GP-Unet: Lesion Detection from Weak Labels with a 3D Regression Network (MICCAI).
 * Sequential 3D U-Nets for Biologically-Informed Brain Tumor Segmentation
@@ -119,6 +120,7 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 * MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS
 * Deconvolutional Networks(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5539957)
 * A guide to convolution arithmetic for deep learning (https://arxiv.org/pdf/1603.07285.pdf)
+* In-Place Activated BatchNorm for Memory-Optimized Training of DNNs (CVPR)
 ## Other Impotant Papers related to Segmentation
 * Data augmentation using learned transformations for one-shot medical image segmentation
 * Understanding Deep Learning Techniques for Image Segmentation
@@ -129,12 +131,16 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 * Improving Semantic Segmentation via Video Propagation and Label Relaxation
 * Improving Semantic Segmentation via Video Propagation and Label Relaxation
 * Self-Supervised Model Adaptation for Multimodal Semantic Segmentation
+* Seamless Scene Segmentation (CVPR)
+* Loss Max-Pooling for Semantic Image Segmentation
+
 ## Resources to get start with Sematic Segamentation
 * https://github.com/mrgloom/awesome-semantic-segmentation
 * https://github.com/divamgupta/image-segmentation-keras
 * https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models
 * https://github.com/aparecidovieira/Road_extraction
-## Datasets 
+# Datasets
+## Datsets for Self Driving Cars
 * IDD: A Dataset for Exploring Problems of Autonomous Navigation in Unconstrained Environments:
 * BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling
 * The ApolloScape Open Dataset for Autonomous Driving and its Application
@@ -144,11 +150,24 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 * Microsoft COCO: Common Objects in Context
 * CamVid (Motion-based Segmentation and Recognition Dataset)
 * ADE20K (MIT)
-### BioMedical Data
-## Florescence Microscopy Images
-### A
-#### B
-#####  C
+* wilddash
+* Scan-net
+## BioMedical Data
+### Florescence Microscopy Images
+* Murphy Lab 
+### Electron Microscopy Image
+* ISBI-2012
+### Dermoscopy Image
+* ISIC-2018
+### Endoscopy Image
+* CVC-ClinicDB
+### Magnetic Resonance Image
+* BraTS
+### Resource for datasets
+* https://competitions.codalab.org/competitions/
+## NVIDIA at 2019 CVPR
+* https://news.developer.nvidia.com/nvidia-research-at-cvpr-2019/
+
 ## Research groups
 ## Mapillary
 * Mapillary is a service for crowdsourcing street view photos. Anyone can collect photos with simple tools like smartphones or action cameras. The photos are then combined into a street level photo view. By doing this  places around world could be visualised by people who care about those places
