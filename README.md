@@ -112,6 +112,7 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 * Pixel-Adaptive Convolutional Neural Networks
 * Gated-SCNN: Gated Shape CNNs for Semantic Segmentation
 * A Two Stage GAN for High Resolution Retinal Image Generation and Segmentation
+* Panoptic Segmentation (CVPR-2019)
 ## Types of Convolution operation which contributed significantly to perform semaantic segmentation
 * Xception: Deep Learning with Depthwise Separable Convolutions
 * Learning Deconvolution Network for Semantic Segmentation
@@ -133,4 +134,22 @@ Rethinking Atrous Convolution for Semantic Image Segmentation
 * https://github.com/divamgupta/image-segmentation-keras
 * https://github.com/ozan-oktay/Attention-Gated-Networks/tree/master/models
 * https://github.com/aparecidovieira/Road_extraction
+## Datasets 
+* IDD: A Dataset for Exploring Problems of Autonomous Navigation in Unconstrained Environments:
+* BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling
+* The ApolloScape Open Dataset for Autonomous Driving and its Application
+* The Cityscapes Dataset for Semantic Urban Scene Understanding (CVPR 2016)
+* KITTI Vision Benchmark Suite
+* The Mapillary Vistas Dataset for Semantic Understanding of Street Scenes
+* Microsoft COCO: Common Objects in Context
+* CamVid (Motion-based Segmentation and Recognition Dataset)
+* ADE20K (MIT)
+### BioMedical Data
+## Florescence Microscopy Images
+### A
+#### B
+#####  C
+## Research groups
+## Mapillary
+* Mapillary is a service for crowdsourcing street view photos. Anyone can collect photos with simple tools like smartphones or action cameras. The photos are then combined into a street level photo view. By doing this  places around world could be visualised by people who care about those places
 
